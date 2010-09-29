@@ -9,7 +9,7 @@
            
       
 (def server (URI/create "rmi://localhost/server1"))
-(def graph (URI/create "rmi://localhost/papyri.info#pi"))
+(def graph (URI/create "rmi://localhost/atlantides#biblio"))
            
 (defn -main
   [args]

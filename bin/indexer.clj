@@ -93,7 +93,7 @@
   (format  "prefix dc: <http://purl.org/dc/terms/> 
             construct {?a dc:bibliographicCitation ?b}
             from <%s>
-            where { ?a dc:bibliographicCitation ?b }") graph)
+            where { ?a dc:bibliographicCitation ?b }" graph))
             
 (defn relation-query
   [url]
@@ -139,14 +139,10 @@
   [answer]
   (when (.next answer)
     (cons (list (.getObject answer 0) (.getObject answer 1) (.getObject answer 2)) (answer-seq answer))))
-            
-
-                  
-
 
 (defn queue-citations []
   (let [items (execute-query (citation-query))]
-    (when (.next items)
+    (while (.next items)
       (.add @citations (list (.getObject items 0) (.getObject items 2))))))
 
 (defn index-solr
