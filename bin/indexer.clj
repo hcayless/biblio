@@ -147,7 +147,7 @@
 (defn queue-citations []
   (let [items (execute-query (citation-query))]
     (when (.next items)
-      (.add @citations (list (.getObject items 0) (.getObject items 2)))))
+      (.add @citations (list (.getObject items 0) (.getObject items 2))))))
 
 (defn index-solr
   []
