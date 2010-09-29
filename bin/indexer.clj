@@ -92,8 +92,8 @@
   []
   (format  "prefix dc: <http://purl.org/dc/terms/> 
             construct {?a dc:bibliographicCitation ?b}
-            from <rmi://localhost/papyri.info#pi>
-            where { ?a dc:bibliographicCitation ?b }"))
+            from <%s>
+            where { ?a dc:bibliographicCitation ?b }") graph)
             
 (defn relation-query
   [url]
