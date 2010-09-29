@@ -151,7 +151,7 @@
 	   (fn []
 	     (let [solr (StreamingUpdateSolrServer. solrurl 5000 5)]
 	       (.setRequestWriter solr (BinaryRequestWriter.))
-	       (while (= (count @documents) 0)
+	       (when (= (count @documents) 0)
 		 (Thread/sleep 30000))
 	       (when (> (count @documents) 0)
 		 (let [docs (ArrayList.)]
