@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/idp/!svn/ver/3360/idp.mapping/trunk/bin/info/papyri
+END
+insert-reciprocals.clj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/idp/!svn/ver/3364/idp.mapping/trunk/bin/info/papyri/insert-reciprocals.clj
+END
+.clojure
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/idp/!svn/ver/3349/idp.mapping/trunk/bin/info/papyri/.clojure
+END
+load-file.clj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/idp/!svn/ver/3337/idp.mapping/trunk/bin/info/papyri/load-file.clj
+END
+map.clj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/idp/!svn/ver/3360/idp.mapping/trunk/bin/info/papyri/map.clj
+END
+delete-uri.clj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/idp/!svn/ver/3360/idp.mapping/trunk/bin/info/papyri/delete-uri.clj
+END
+delete-graph.clj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/idp/!svn/ver/3338/idp.mapping/trunk/bin/info/papyri/delete-graph.clj
+END
