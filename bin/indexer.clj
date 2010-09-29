@@ -143,7 +143,7 @@
 (defn queue-citations []
   (let [items (execute-query (citation-query))]
     (while (.next items)
-      (.add @citations (list (.getObject items 0) (.getObject items 2))))))
+      (.add @citations (list (.toString (.getObject items 0)) (getValue (.asLiteral items 2)))))))
 
 (defn index-solr
   []
@@ -159,7 +159,7 @@
 		   (.removeAll @documents docs)
 		   (.add solr docs))))
 	       (Thread/sleep 30000)
-	       (when (> (count @documents) 0)
+	       (if (> (count @documents) 0)
 		 (index-solr))))))
 
 (defn -main [& args]
