@@ -22,8 +22,8 @@
   <fields>
     <field name="identifier" type="string" indexed="true" stored="true"/>
     <field name="bibliographicCitation" type="text" indexed="true" stored="true" termVectors="true"/>
-    <field name="*" type="text" indexed="true" stored="false"/>
-    <field name="all" type="text" indexed="true" stored="false"/>
+    <field name="*" type="text" indexed="true" stored="false" multiValued="true"/>
+    <field name="all" type="text" indexed="true" stored="false" multiValued="true"/>
   </fields>
 
   <uniqueKey>identifier</uniqueKey>
