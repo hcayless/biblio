@@ -1,0 +1,5714 @@
+﻿<?xml version="1.0"?>
+<modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods>
+    <titleInfo>
+      <title>Integrating Digital Papyrology</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">conferencePaper</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <accessCondition>Copyright 2010, Roger Bagnall</accessCondition>
+    <originInfo>
+      <place>
+        <placeTerm type="text">University of Virginia</placeTerm>
+      </place>
+      <dateCreated>2010-03-23</dateCreated>
+      <dateCaptured>2010-03-23 14:42:59</dateCaptured>
+    </originInfo>
+    <location>
+      <url>http://hdl.handle.net/2451/29592</url>
+    </location>
+    <abstract>Paper presented at &amp;quot;Online Humanities Scholarship: The Shape of Things to Come&amp;quot; a three-day, Mellon Foundation Conference at the University of Virginia to explore how to develop and sustain online humanities research and publication, March 26-28, 2010: http://shapeofthings.org/index.html</abstract>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Water Temple at Bir Abu Safa (Eastern Desert)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Mikhail</namePart>
+      <namePart type="given">Gabriel</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sidebotham</namePart>
+      <namePart type="given">Steven E.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Harrell</namePart>
+      <namePart type="given">James</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>41</number>
+        </detail>
+        <extent unit="pages">
+          <start>149</start>
+          <end>59</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2007</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of the American Research Center in Egypt</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JARCE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28283</url>
+    </location>
+  </mods>
+  
+  
+  
+  <mods>
+    <titleInfo>
+      <title>O.Douch I 40</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Choat</namePart>
+      <namePart type="given">Malcolm</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gardner</namePart>
+      <namePart type="given">I.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>147</number>
+        </detail>
+        <extent unit="pages">
+          <start>205</start>
+          <end>207</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2004</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28273</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Security and Water on Egypt's Desert Roads: New Light on the Prefect
+                        Iulius Ursus and Praesidia-building under Vespasian</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Bülow-Jacobsen</namePart>
+      <namePart type="given">A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Cuvigny</namePart>
+      <namePart type="given">H.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>14</number>
+        </detail>
+        <extent unit="pages">
+          <start>325</start>
+          <end>333</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2001</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Roman Archaeology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JRA</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28258</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Tiphagion</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Thanheiser</namePart>
+      <namePart type="given">Ursula</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>122</number>
+        </detail>
+        <extent unit="pages">
+          <start>173</start>
+          <end>88</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1998</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28245</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Ptolemaic Inscription from Bir 'Iayyan</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Manning</namePart>
+      <namePart type="given">Joseph G.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sidebotham</namePart>
+      <namePart type="given">Steven E.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Zitterkopf</namePart>
+      <namePart type="given">Ronald E.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>71</number>
+        </detail>
+        <extent unit="pages">
+          <start>317</start>
+          <end>30</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1996</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28235</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Dating the Coptic Legal Documents from Aphrodite</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>148</number>
+        </detail>
+        <extent unit="pages">
+          <start>247</start>
+          <end>252</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2004</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28274</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>P.Princ. II 84 Revised</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>40</number>
+        </detail>
+        <extent unit="pages">
+          <start>11</start>
+          <end>26</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2003</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28270</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Tetrachryson</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>15</number>
+        </detail>
+        <extent unit="pages">
+          <start>3</start>
+          <end>6</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2000</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28256</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>SPP XX 74: The Last Preserved Bank-Diagraphe</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>10</number>
+        </detail>
+        <extent unit="pages">
+          <start>1</start>
+          <end>7</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1995</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28228</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Three Notes on Byzantine Documents</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>101</number>
+        </detail>
+        <extent unit="pages">
+          <start>96</start>
+          <end>98</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1994</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28223</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Two Nominations of Goldsmiths to Collect Taxes</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>59</number>
+        </detail>
+        <extent unit="pages">
+          <start>67</start>
+          <end>70</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1985</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28183</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Fourth-Century Tax Roll in the Princeton Collection: A
+                        Reedition</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>30</number>
+        </detail>
+        <extent unit="pages">
+          <start>53</start>
+          <end>82</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1984</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Archiv für Papyrusforschung</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Papyrusforschung</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28177</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Further Chronological Notes on Byzantine Documents</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>56</number>
+        </detail>
+        <extent unit="pages">
+          <start>127</start>
+          <end>36</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1984</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28180</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Three Papyri from Fourth-Century Karanis</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>59</number>
+        </detail>
+        <extent unit="pages">
+          <start>301</start>
+          <end>11</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1984</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd’E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28181</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Loan of Money: P.Sorb.Inv. 2253</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>29</number>
+        </detail>
+        <extent unit="pages">
+          <start>29</start>
+          <end>31</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1983</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Archiv für Papyrusforschung</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Papyrusforschung</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28174</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Two Fourth-Century Papyri in Bologna</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>52</number>
+        </detail>
+        <extent unit="pages">
+          <start>247</start>
+          <end>55</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1983</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28175</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Papyrus Documentation in the Period of Diocletian and
+                        Constantine</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>4</number>
+        </detail>
+        <extent unit="pages">
+          <start>25</start>
+          <end>33</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1982</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the Egyptological Seminar</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BES</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28170</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents VIII</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>18</number>
+        </detail>
+        <extent unit="pages">
+          <start>33</start>
+          <end>54</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1981</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28166</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Christian Invocations in the Papyri</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>56</number>
+        </detail>
+        <extent unit="pages">
+          <start>112</start>
+          <end>33</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1981</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28167</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Christian Invocations in the Papyri: a Supplement</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>56</number>
+        </detail>
+        <extent unit="pages">
+          <start>362</start>
+          <end>65</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1981</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Christian Invocations in the Papyri: a Supplement</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28168</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Grain Land in the Oxyrhynchite Nome</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>37</number>
+        </detail>
+        <extent unit="pages">
+          <start>263</start>
+          <end>64</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1980</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28159</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents IV</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>17</number>
+        </detail>
+        <extent unit="pages">
+          <start>5</start>
+          <end>18</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1980</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28160</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents VI</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>17</number>
+        </detail>
+        <extent unit="pages">
+          <start>27</start>
+          <end>36</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1980</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28162</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents VII</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>17</number>
+        </detail>
+        <extent unit="pages">
+          <start>105</start>
+          <end>16</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1980</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28164</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents II</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>16</number>
+        </detail>
+        <extent unit="pages">
+          <start>221</start>
+          <end>37</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>15</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28153</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents III</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>16</number>
+        </detail>
+        <extent unit="pages">
+          <start>239</start>
+          <end>47</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>15</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28154</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Papyrus Documentation in Egypt from Justinian to Heraclius</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>1</number>
+        </detail>
+        <extent unit="pages">
+          <start>5</start>
+          <end>10</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the Egyptological Seminar</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Seminar</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28155</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Three Regnal Dates Assigned to 310/311</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>1</number>
+        </detail>
+        <extent unit="pages">
+          <start>11</start>
+          <end>13</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the Egyptological Seminar</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Seminar</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28156</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Reckoning in Byzantine Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>20</number>
+        </detail>
+        <extent unit="pages">
+          <start>279</start>
+          <end>95</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Greek, Roman, and Byzantine Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>GRBS</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28157</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Ten Consular Dates</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>28</number>
+        </detail>
+        <extent unit="pages">
+          <start>221</start>
+          <end>30</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28139</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>P.Erl. 52 B Recto: A Reedition</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>28</number>
+        </detail>
+        <extent unit="pages">
+          <start>231</start>
+          <end>37</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28140</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Consuls of A.D. 411-412</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>31</number>
+        </detail>
+        <extent unit="pages">
+          <start>287</start>
+          <end>93</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Mnemosyne, Brill</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Mnemosyne</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28147</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents I</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>15</number>
+        </detail>
+        <extent unit="pages">
+          <start>233</start>
+          <end>46</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28149</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Commodity Prices in P.Stras. 595</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Worp</namePart>
+      <namePart type="given">K. A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>27</number>
+        </detail>
+        <extent unit="pages">
+          <start>161</start>
+          <end>64</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1977</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28136</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Forty Thousand Citizens of Ephesos</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Warden</namePart>
+      <namePart type="given">P.D.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>83</number>
+        </detail>
+        <extent unit="pages">
+          <start>220</start>
+          <end>23</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1988</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Classical Philology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>CP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28195</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Dekaprotoi and Epigrapha</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Thomas</namePart>
+      <namePart type="given">J. D.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>16</number>
+        </detail>
+        <extent unit="pages">
+          <start>185</start>
+          <end>89</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28151</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Currency in the Fourth Century and the Date of CPR V 26</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sijpesteijn</namePart>
+      <namePart type="given">P. J.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>24</number>
+        </detail>
+        <extent unit="pages">
+          <start>111</start>
+          <end>24</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1977</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28135</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on the Leiden Ostraca, II</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sijpesteijn</namePart>
+      <namePart type="given">P. J.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>6</number>
+        </detail>
+        <extent unit="pages">
+          <start>65</start>
+          <end>72</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1969</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28305</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Greek and Latin Documents from 'Abu Sha'ar, 1990-1991</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Sheridan</namePart>
+      <namePart type="given">Jennifer A.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>31</number>
+        </detail>
+        <extent unit="pages">
+          <start>157</start>
+          <end>66</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1994</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of the American Research Center in Egypt</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JARCE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28222</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Civic Life in Fourth Century Trimithis</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Ruffini</namePart>
+      <namePart type="given">G.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>149</number>
+        </detail>
+        <extent unit="pages">
+          <start>143</start>
+          <end>152</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2004</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28275</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Prefect's Edict Mentioning Sacrifice</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Rives</namePart>
+      <namePart type="given">James B</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>2</number>
+        </detail>
+        <extent unit="pages">
+          <start>77-86 + 2 plates</start>
+          <end>77-86 + 2 plates</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2000</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Archiv für Religionsgeschichte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Religionsgeschichte</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28253</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Franks in Sixth-century Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Palme</namePart>
+      <namePart type="given">Bernhard</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>11</number>
+        </detail>
+        <extent unit="pages">
+          <start>1</start>
+          <end>10</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1996</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28233</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Collection Froehner 81 Once Again</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Lajtar</namePart>
+      <namePart type="given">Adam</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>24</number>
+        </detail>
+        <extent unit="pages">
+          <start>11</start>
+          <end>12</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1994</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Juristic Papyrology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JJurPap</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28225</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Involving Scholars in Preservation Decisionmaking: the Case of the
+                        Classicists</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Harris</namePart>
+      <namePart type="given">Carolyn L.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>13</number>
+        </detail>
+        <extent unit="pages">
+          <start>140</start>
+          <end>46</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1987</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Academic Librarianship</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Librarianship</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28190</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Knekites</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Harrell</namePart>
+      <namePart type="given">James</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>78</number>
+        </detail>
+        <extent unit="pages">
+          <start>229</start>
+          <end>235</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2003</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28268</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>An Early Fragment of the Greek Apophthegmata Patrum</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Gonis</namePart>
+      <namePart type="given">N.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>5</number>
+        </detail>
+        <extent unit="pages">
+          <start>260</start>
+          <end>278</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2006</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Archiv für Religionsgeschichte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Religionsgeschichte</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28267</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>SB XII 11273: No Vocative</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart type="family">Dickey</namePart>
+      <namePart type="given">E.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>146</number>
+        </detail>
+        <extent unit="pages">
+          <start>170</start>
+          <end>172</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2004</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28272</url>
+    </location>
+  </mods>
+  
+  
+  <mods>
+    <titleInfo>
+      <title>SB 6.9025, Cotton, and the Economy of the Small Oasis</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>45</number>
+        </detail>
+        <extent unit="pages">
+          <start>21</start>
+          <end>30</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2008</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28287</url>
+    </location>
+  </mods>
+  
+  
+  <mods>
+    <titleInfo>
+      <title>Naphtali Lewis (1911-2005)</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>43</number>
+        </detail>
+        <extent unit="pages">
+          <start>5</start>
+          <end>8</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2005</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28121</url>
+    </location>
+  </mods>
+  
+  
+  <mods>
+    <titleInfo>
+      <title>The Last Donkey Sacrifice at Deir el-Bahari</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>34</number>
+        </detail>
+        <extent unit="pages">
+          <start>15</start>
+          <end>21</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2004</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Juristic Papyrology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JJP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28276</url>
+    </location>
+  </mods>
+  
+  
+  <mods>
+    <titleInfo>
+      <title>A Vineyard in the Small Oasis:What Was the Dispute About?</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>33</number>
+        </detail>
+        <extent unit="pages">
+          <start>17</start>
+          <end>25</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2003</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Juristic Papyrology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JJurPap</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28271</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Alexandria: Library of Dreams</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>146</number>
+        </detail>
+        <extent unit="pages">
+          <start>348</start>
+          <end>362</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2002</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Proceedings of the American Philosophical Society</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Society</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28263</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Effects of Plague: Model and Evidence</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>15</number>
+        </detail>
+        <extent unit="pages">
+          <start>114</start>
+          <end>120</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2002</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Roman Archaeology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JRA</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28264</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Archaeological Work on Hellenistic and Roman Egypt,
+                        1995-2000</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>105</number>
+        </detail>
+      </part>
+      <originInfo>
+        <dateIssued>2001</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>American Journal of Archaeology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>AJA</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28259</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Les lettres privées des femmes : un choix de langue en Égypte
+                        byzantine</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>12</number>
+        </detail>
+        <extent unit="pages">
+          <start>133</start>
+          <end>153</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2001</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin de la Classe des Lettres de l'Académie Royale de
+                        Belgique</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ser.</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28260</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Monks and Property: Rhetoric, Law and Patronage in the Apophthegmata
+                        Patrum and the Papyri</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>42</number>
+        </detail>
+        <extent unit="pages">
+          <start>7</start>
+          <end>24</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2001</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Greek, Roman, and Byzantine Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>GRBS</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28261</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Jesus Reads a Book</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>51</number>
+        </detail>
+        <extent unit="pages">
+          <start>577</start>
+          <end>88</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2000</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Theological Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>n.s.</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28252</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Vegetable Seed Oil is Sesame Oil</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>75</number>
+        </detail>
+        <extent unit="pages">
+          <start>133</start>
+          <end>35</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2000</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>d'Égypte</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28254</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>P.Oxy. 4527 and the Antonine Plague in Egypt: Death or
+                        Flight?</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>13</number>
+        </detail>
+        <extent unit="pages">
+          <start>288</start>
+          <end>92</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2000</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Roman Archaeology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JRA</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28255</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>'Your Wife in Your Name': P.Oxy. LXII 4340</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>39</number>
+        </detail>
+        <extent unit="pages">
+          <start>157</start>
+          <end>67</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>2000</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Greek, Roman, and Byzantine Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>GRBS</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28288</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Charles Bradford Welles</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>23</number>
+        </detail>
+        <extent unit="pages">
+          <start>4</start>
+          <end>5</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1999</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>American National Biography</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Biography</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28247</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Lender, Borrower, and Banker in P.Yale I 65</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>36</number>
+        </detail>
+        <extent unit="pages">
+          <start>45</start>
+          <end>52</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1999</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28249</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Eirene to Epaphrys: P.Yale I 77 revised</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>74</number>
+        </detail>
+        <extent unit="pages">
+          <start>109</start>
+          <end>117</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1999</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28250</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Date of P.Kell. I G. 62 and the meaning of Chorion</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>74</number>
+        </detail>
+        <extent unit="pages">
+          <start>329</start>
+          <end>33</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1999</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>d'Égypte</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28251</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Papyrus and Preservation</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>91</number>
+        </detail>
+        <extent unit="pages">
+          <start>543</start>
+          <end>52</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1998</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Classical World</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>World</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28246</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>For the Visit of My Father Sarapion: CPR VIII 52</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>12</number>
+        </detail>
+        <extent unit="pages">
+          <start>245</start>
+          <end>46</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28236</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Mandate from the Great Oasis</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>116</number>
+        </detail>
+        <extent unit="pages">
+          <start>149</start>
+          <end>51</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28237</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Kinder, Gentler Roman Army?</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>10</number>
+        </detail>
+        <extent unit="pages">
+          <start>504</start>
+          <end>12</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Roman Archaeology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JRA</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28238</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>O.Waqfa 79</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>12</number>
+        </detail>
+        <extent unit="pages">
+          <start>246</start>
+          <end>47</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28239</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>O.Waqfa 66</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>12</number>
+        </detail>
+        <extent unit="pages">
+          <start>247</start>
+          <end>48</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28240</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Imaging of Papyri: A Strategic View</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>12</number>
+        </detail>
+        <extent unit="pages">
+          <start>153</start>
+          <end>54</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Literary and Linguistic Computing, Oxford University
+                        Press</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Computing</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28241</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A New Arsinoite Strategos?</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <extent unit="pages">
+          <start>http://archive.nyu.edu/handle/2451/28242</start>
+          <end>http://archive.nyu.edu/handle/2451/28242</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28242</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Two Linguistic Notes on Ostraka from Mons Claudianus</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>72</number>
+        </detail>
+        <extent unit="pages">
+          <start>341</start>
+          <end>44</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1997</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28243</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Painted Garden of Coptos</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>71</number>
+        </detail>
+        <extent unit="pages">
+          <start>145</start>
+          <end>52</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1996</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28234</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>The People of P.Mich.inv. 5806</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>105</number>
+        </detail>
+        <extent unit="pages">
+          <start>253</start>
+          <end>55</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1995</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28229</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Charite's Christianity</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>32</number>
+        </detail>
+        <extent unit="pages">
+          <start>37</start>
+          <end>40</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1995</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28232</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Census Declarations from the British Library</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>69</number>
+        </detail>
+        <extent unit="pages">
+          <start>109</start>
+          <end>26</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1994</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd’E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28224</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Census Declarations in the Berlin Collection</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>39</number>
+        </detail>
+        <extent unit="pages">
+          <start>21</start>
+          <end>28</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1993</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Archiv für Papyrusforschung</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Papyrusforschung</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28216</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>An Arsinoite Metropolitan Landowning Family of the Fourth
+                        Century</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>2</number>
+        </detail>
+        <extent unit="pages">
+          <start>[Papiri Documentari Greci]</start>
+          <end>[Papiri Documentari Greci]</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1993</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Congedo Editore Papiri Documentari Greci</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Lupiensia</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28217</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Egyptian Census Declarations, V</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>30</number>
+        </detail>
+        <extent unit="pages">
+          <start>35</start>
+          <end>56</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1993</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28218</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Alessandra Gara</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>30</number>
+        </detail>
+        <extent unit="pages">
+          <start>79</start>
+          <end>80</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1993</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28219</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Egypt and the Lex Minicia</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>23</number>
+        </detail>
+        <extent unit="pages">
+          <start>25</start>
+          <end>28</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1993</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Juristic Papyrology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Papyrology</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28220</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Managing Estates in Roman Egypt: A Review Article</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>30</number>
+        </detail>
+        <extent unit="pages">
+          <start>127</start>
+          <end>35</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1993</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28221</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Roman and Byzantine Documents</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>66</number>
+        </detail>
+        <extent unit="pages">
+          <start>282</start>
+          <end>96</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd’E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28208</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>An Owner of Literary Papyri</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>87</number>
+        </detail>
+        <extent unit="pages">
+          <start>137</start>
+          <end>40</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Classical Philology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>CP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28209</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Military Officers as Landowners in Fourth Century Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>22</number>
+        </detail>
+        <extent unit="pages">
+          <start>47</start>
+          <end>54</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chiron</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Chiron</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28210</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Combat ou vide: Christianisme et paganisme dans l’Egypte romaine
+                        tardive</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>13</number>
+        </detail>
+        <extent unit="pages">
+          <start>285</start>
+          <end>96</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Ktema</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Ktema</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28211</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Egyptian Census Declarations, IV</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>29</number>
+        </detail>
+        <extent unit="pages">
+          <start>101</start>
+          <end>15</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28212</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Landholding in Late Roman Egypt: The Distribution of Wealth</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>82</number>
+        </detail>
+        <extent unit="pages">
+          <start>128</start>
+          <end>49</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Roman Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JRS</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28213</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Count Ausonius</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>7</number>
+        </detail>
+        <extent unit="pages">
+          <start>9</start>
+          <end>13</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28214</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Periodicity and Collection of the Chrysargyron</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>7</number>
+        </detail>
+        <extent unit="pages">
+          <start>15</start>
+          <end>17</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1992</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28215</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Trick a Day to Keep the Tax Man at Bay? The Prostitute Tax in Roman
+                        Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>28</number>
+        </detail>
+        <extent unit="pages">
+          <start>5</start>
+          <end>12</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1991</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28203</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Freedmen and Freedwomen with Fathers?</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>21</number>
+        </detail>
+        <extent unit="pages">
+          <start>7</start>
+          <end>8</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1991</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Juristic Papyrology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Papyrology</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28204</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Egyptian Census Declarations, II</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>28</number>
+        </detail>
+        <extent unit="pages">
+          <start>13</start>
+          <end>32</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1991</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28205</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Egyptian Census Declarations, III</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>28</number>
+        </detail>
+        <extent unit="pages">
+          <start>121</start>
+          <end>33</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1991</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28206</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Taxes of Toka</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>6</number>
+        </detail>
+        <extent unit="pages">
+          <start>37</start>
+          <end>43</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1991</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Tyche</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Tyche</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28207</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Egyptian Census Declarations, I</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>27</number>
+        </detail>
+        <extent unit="pages">
+          <start>1</start>
+          <end>14</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1990</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28201</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Five Problematic Fourth-Century Pieces</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>27</number>
+        </detail>
+        <extent unit="pages">
+          <start>79</start>
+          <end>93</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1990</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28202</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Fourth-Century Prices: New Evidence and Further Thoughts</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>76</number>
+        </detail>
+        <extent unit="pages">
+          <start>69</start>
+          <end>76</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1989</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28199</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Official and Private Violence in Roman Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>26</number>
+        </detail>
+        <extent unit="pages">
+          <start>201</start>
+          <end>16</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1989</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28200</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Roman Egypt, Later</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>10</number>
+        </detail>
+        <extent unit="pages">
+          <start>453</start>
+          <end>56</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1988</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Scribner, New York</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Ages</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28192</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Restoring the Text of Documents</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>4</number>
+        </detail>
+        <extent unit="pages">
+          <start>109</start>
+          <end>19</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1988</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Transactions of the Society for Textual Scholarship</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>TEXT</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28193</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Object of Reimbursement in P.Oxy. XIV 1718</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>63</number>
+        </detail>
+        <extent unit="pages">
+          <start>157</start>
+          <end>64</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1988</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28196</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>A Second Century Christian Burial at Tell el-Maskhuta?</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>74</number>
+        </detail>
+        <extent unit="pages">
+          <start>291</start>
+          <end>92</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1988</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28197</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Archaeology and Papyrology</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>1</number>
+        </detail>
+        <extent unit="pages">
+          <start>197</start>
+          <end>202</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1988</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Journal of Roman Archaeology</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Archaeology</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28198</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Conversion and Onomastics: A Reply</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>69</number>
+        </detail>
+        <extent unit="pages">
+          <start>243</start>
+          <end>50</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1987</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28191</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>The Computer and Classical Research</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>30</number>
+        </detail>
+        <extent unit="pages">
+          <start>53</start>
+          <end>62</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1986</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Classical Views</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Views</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28187</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Papyri and Ostraka from Quseir al-Qadim</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>23</number>
+        </detail>
+        <extent unit="pages">
+          <start>1</start>
+          <end>60</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1986</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28188</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Publius Petronius, Augustan Prefect of Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>28</number>
+        </detail>
+        <extent unit="pages">
+          <start>85</start>
+          <end>93</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1985</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Yale Classical Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Studies</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28182</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Agricultural Productivity and Taxation in Fourth-Century
+                        Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>115</number>
+        </detail>
+        <extent unit="pages">
+          <start>290</start>
+          <end>308</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1985</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Transactions of American Philological Association</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>TAPA</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28184</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Camel, the Wagon, and the Donkey in Later Roman Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>22</number>
+        </detail>
+        <extent unit="pages">
+          <start>1</start>
+          <end>6</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1985</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28185</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Flavius Neaptius, Ghost-Comes Aegypti</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>25</number>
+        </detail>
+        <extent unit="pages">
+          <start>83</start>
+          <end>85</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1984</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Greek, Roman, and Byzantine Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>GRBS</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28178</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>An Unrecognized Date by the Rebellion of 131 B.C.</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>56</number>
+        </detail>
+        <extent unit="pages">
+          <start>58</start>
+          <end>60</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1984</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28179</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Five Papyri on Fourth-Century Money and Prices</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>20</number>
+        </detail>
+        <extent unit="pages">
+          <start>1</start>
+          <end>19</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1983</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28176</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Due papiri fiorentini del quarto secolo</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>21</number>
+        </detail>
+        <extent unit="pages">
+          <start>87</start>
+          <end>92</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1982</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Studia Papyrologica</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Papyrologica</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28169</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Population of Theadelphia in the Fourth Century</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>24</number>
+        </detail>
+        <extent unit="pages">
+          <start>35</start>
+          <end>57</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1982</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin de la société d’archéologie copte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BullSocArchCopte</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28171</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Religious Conversion and Onomastic Change</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>19</number>
+        </detail>
+        <extent unit="pages">
+          <start>105</start>
+          <end>24</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1982</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28172</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>"Theadelphian Taxes in CPR VI 5</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>24</number>
+        </detail>
+        <extent unit="pages">
+          <start>115</start>
+          <end>18</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1982</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin de la société d’archéologie copte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BullSocArchCopte</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28173</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>P.Oxy. XVI 1905, SB V 7756, and Fourth Century Taxation</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>37</number>
+        </detail>
+        <extent unit="pages">
+          <start>185</start>
+          <end>96</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1980</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28158</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Chronological Notes on Byzantine Documents V</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>17</number>
+        </detail>
+        <extent unit="pages">
+          <start>19</start>
+          <end>25</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1980</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28161</url>
+    </location>
+  </mods>
+  
+  <mods>
+    <titleInfo>
+      <title>Some Notes on P.Hib. 198</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>6</number>
+        </detail>
+        <extent unit="pages">
+          <start>73</start>
+          <end>118</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28122</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Ostraka from the Yale Collectio</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>16</number>
+        </detail>
+        <extent unit="pages">
+          <start>3</start>
+          <end>11</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1979</dateIssued>
+      </originInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28152</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Property-holdings of Liturgists in Fourth-century Karanis</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>15</number>
+        </detail>
+        <extent unit="pages">
+          <start>9</start>
+          <end>16</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28141</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Notes on Egyptian and Greek Ostraka</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>8</number>
+        </detail>
+        <extent unit="pages">
+          <start>143</start>
+          <end>50</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Enchoria: Zeitschrift fur Demotistik und Koptologie</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Enchoria</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28146</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Number and Term of the Dekaprotoi</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>58</number>
+        </detail>
+        <extent unit="pages">
+          <start>160</start>
+          <end>67</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1978</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Aegyptus</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Aegyptus</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28148</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Army and Police in Roman Upper Egypt</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>14</number>
+        </detail>
+        <extent unit="pages">
+          <start>67</start>
+          <end>86</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1977</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>The Journal of the American Research Center in Egypt
+                        (JARCE)</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>JARCE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28137</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Bullion Purchases and Landholding in the Fourth Century</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>52</number>
+        </detail>
+        <extent unit="pages">
+          <start>322</start>
+          <end>36</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1977</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28138</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Archagathos, Epistates of Libya</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>120</number>
+        </detail>
+        <extent unit="pages">
+          <start>195</start>
+          <end>209</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1976</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Philologus</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Philologus</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28150</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Orders for Payment from a Banker's Archive: Papyri in the Collection
+                        of Florida State University</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>6</number>
+        </detail>
+        <extent unit="pages">
+          <start>79</start>
+          <end>108</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1975</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Ancient Society</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>AncSoc</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28133</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Roman Garrison of Latopolis</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>12</number>
+        </detail>
+        <extent unit="pages">
+          <start>134</start>
+          <end>44</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1975</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28134</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Toparch Leon and his Archive</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>15</number>
+        </detail>
+        <extent unit="pages">
+          <start>215</start>
+          <end>20</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1974</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Greek, Roman, and Byzantine Studies</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>GRBS</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28132</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Three Notes on Ptolemaic Inscriptions</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>11</number>
+        </detail>
+        <extent unit="pages">
+          <start>121</start>
+          <end>27</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1973</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Zeitschrift für Papyrologie und Epigraphik</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>ZPE</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28129</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Documents from Kourion: A Review Article I</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>27</number>
+        </detail>
+        <extent unit="pages">
+          <start>99</start>
+          <end>117</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1973</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Phoenix; The CLassical Association of Canada</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Phoenix</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28130</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Documents from Kourion: A Review Article II</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>27</number>
+        </detail>
+        <extent unit="pages">
+          <start>213</start>
+          <end>44</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1973</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Phoenix; The CLassical Association of Canada</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Phoenix</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28131</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Theogenes the Dioiketes</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>3</number>
+        </detail>
+        <extent unit="pages">
+          <start>111</start>
+          <end>19</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1972</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Ancient Society</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>AncSoc</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28128</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Stolos the Admiral</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>26</number>
+        </detail>
+        <extent unit="pages">
+          <start>358</start>
+          <end>68</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1972</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Phoenix</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Phoenix</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28306</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>The Ptolemaic Trierarchs</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>46</number>
+        </detail>
+        <extent unit="pages">
+          <start>356</start>
+          <end>62</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1971</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Chronique d’Égypte</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Cd'E</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28127</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>An Order for Nails</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>5</number>
+        </detail>
+        <extent unit="pages">
+          <start>99</start>
+          <end>104</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1968</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28123</url>
+    </location>
+  </mods>
+  <mods>
+    <titleInfo>
+      <title>Three Papyri from Oxyrhynchus</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="local">journalArticle</genre>
+    <genre authority="marcgt">periodical</genre>
+    <name type="personal">
+      <namePart type="family">Bagnall</namePart>
+      <namePart type="given">Roger S.</namePart>
+      <role>
+        <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+      </role>
+    </name>
+    <relatedItem type="host">
+      <part>
+        <detail type="volume">
+          <number>5</number>
+        </detail>
+        <extent unit="pages">
+          <start>135</start>
+          <end>50</end>
+        </extent>
+      </part>
+      <originInfo>
+        <dateIssued>1968</dateIssued>
+      </originInfo>
+      <titleInfo>
+        <title>Bulletin of the American Society of Papyrologists</title>
+      </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>BASP</title>
+      </titleInfo>
+    </relatedItem>
+    <location>
+      <url>http://hdl.handle.net/2451/28126</url>
+    </location>
+  </mods>
+</modsCollection>
