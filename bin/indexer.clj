@@ -152,11 +152,14 @@
 
 (defn get-value
   [row]
-  (if (nil? (.getObject row 3))
+  (def result (if (nil? (.getObject row 3))
     (if (nil? (.getObject row 2))
       (.toString (.getObject row 1))
       (.toString (.getObject row 2)))
     (.toString (.getObject row 1))))
+  (if (.startsWith result "http")
+    nil
+    result))
 	    
 
 (defn queue-citations []
@@ -198,9 +201,10 @@
 		   (.addField solrdoc "identifier" x)
 		   (let [item (execute-query (citation-query x))]
 		     (while (.next item)
-		       (if (.contains (.toString (.getObject item 0)) "#")
-			 (.addField solrdoc (substring-after (.toString (.getObject item 0)) "#") (get-value item))
-			 (.addField solrdoc (substring-after-last (.toString (.getObject item 0)) "/") (get-value item)))))
+		       (when (not (nil? (get-value item)))
+			 (if (.contains (.toString (.getObject item 0)) "#")
+			   (.addField solrdoc (substring-after (.toString (.getObject item 0)) "#") (get-value item))
+			   (.addField solrdoc (substring-after-last (.toString (.getObject item 0)) "/") (get-value item))))))
 		   (.add @documents solrdoc)))) @citations)]
 	     (doseq [future (.invokeAll pool tasks)]
 	       (.get future))
