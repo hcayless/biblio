@@ -21,19 +21,19 @@
 
   <fields>
     <field name="identifier" type="string" indexed="true" stored="true"/>
-    <field name="citation" type="text" indexed="true" stored="true" termVectors="true">
+    <field name="bibliographicCitation" type="text" indexed="true" stored="true" termVectors="true"/>
+    <field name="*" type="text" indexed="true" stored="false" multiValued="true"/>
+    <field name="all" type="text" indexed="true" stored="false" multiValued="true"/>
   </fields>
 
-  <uniqueKey>id</uniqueKey>
+  <uniqueKey>identifier</uniqueKey>
 
   <!-- field for the QueryParser to use when an explicit fieldname is absent -->
     <defaultSearchField>all</defaultSearchField> 
 
   <!-- SolrQueryParser configuration: defaultOperator="AND|OR" -->
   <solrQueryParser defaultOperator="AND"/>
-  
-  <copyField source="transcription_ia" dest="all"/>
-  <copyField source="translation" dest="all"/>
-  <copyField source="metadata" dest="all"/>
+
+  <copyField source="*" dest="all"/>
   
 </schema>
