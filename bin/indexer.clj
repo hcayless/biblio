@@ -65,7 +65,9 @@
   [string1 string2]
   (.substring string1 0 (if (.contains string1 string2) (.indexOf string1 string2) 0)))
 
-
+(defn substring-after-last
+  [string1 string2]
+  (.substring string1 (+ (.lastIndexOf string1 string2) 1)))
 
           
 
@@ -89,11 +91,19 @@
             where { <%s> dc:hasPart ?a }" url url))
 
 (defn citation-query
-  []
-  (format  "prefix dc: <http://purl.org/dc/terms/> 
-            construct {?a dc:bibliographicCitation ?b}
+  [uri]
+  (format  "select ?p ?o ?o2 ?o3
             from <%s>
-            where { ?a dc:bibliographicCitation ?b }" graph))
+            where { <%s> ?p ?o
+              optional {?o ?p2 ?o2 .
+                optional { ?o2 ?p3 ?o3 } } }" graph uri))
+
+(defn get-citations-query
+  []
+  (format  "prefix dc: <http://purl.org/dc/terms/>
+            select ?uri
+            from <%s>
+            where { ?uri dc:isPartOf <http://biblio.atlantides.org/items> }" graph))
             
 (defn relation-query
   [url]
@@ -140,10 +150,19 @@
   (when (.next answer)
     (cons (list (.getObject answer 0) (.getObject answer 1) (.getObject answer 2)) (answer-seq answer))))
 
+(defn get-value
+  [row]
+  (if (nil? (.getObject row 3))
+    (if (nil? (.getObject row 2))
+      (.toString (.getObject row 1))
+      (.toString (.getObject row 2)))
+    (.toString (.getObject row 1))))
+	    
+
 (defn queue-citations []
-  (let [items (execute-query (citation-query))]
+  (let [items (execute-query (get-citations-query))]
     (while (.next items)
-      (.add @citations (list (.toString (.getObject items 0)) (getValue (.asLiteral items 2)))))))
+      (.add @citations (.toString (.getObject items 0)))))) 
 
 (defn index-solr
   []
@@ -176,8 +195,12 @@
 	(map (fn [x]
 	       (fn []
 		 (let [solrdoc (SolrInputDocument.)]
-		   (.addField solrdoc "identifier" (first x))
-		   (.addField solrdoc "citation" (last x))
+		   (.addField solrdoc "identifier" x)
+		   (let [item (execute-query (citation-query x))]
+		     (while (.next item)
+		       (if (.contains (.toString (.getObject item 0)) "#")
+			 (.addField solrdoc (substring-after (.toString (.getObject item 0)) "#") (get-value item))
+			 (.addField solrdoc (substring-after-last (.toString (.getObject item 0)) "/") (get-value item)))))
 		   (.add @documents solrdoc)))) @citations)]
 	     (doseq [future (.invokeAll pool tasks)]
 	       (.get future))
